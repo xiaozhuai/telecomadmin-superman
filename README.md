@@ -25,7 +25,7 @@
         <td align="center">E-140W-P</td>
         <td align="center">E140WV1B1</td>
         <td align="center">ASB_E140WV1.7S</td>
-        <td align="center"><img src="https://img.shields.io/badge/Support-Yes-green"></td>
+        <td align="center"><img src="https://img.shields.io/badge/Support-Yes-green?style=flat-square"></td>
         <td align="center">
             <img src="https://github.com/xiaozhuai.png?size=60">
             <br>
@@ -42,7 +42,7 @@
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
-        <td align="center"><img src="https://img.shields.io/badge/Support-No-yellow"></td>
+        <td align="center"><img src="https://img.shields.io/badge/Support-No-yellow?style=flat-square"></td>
         <td align="center"></td>
         <td align="center"></td>
     </tr>
@@ -51,7 +51,7 @@
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
-        <td align="center"><img src="https://img.shields.io/badge/Support-No-yellow"></td>
+        <td align="center"><img src="https://img.shields.io/badge/Support-No-yellow?style=flat-square"></td>
         <td align="center"></td>
         <td align="center"></td>
     </tr>
