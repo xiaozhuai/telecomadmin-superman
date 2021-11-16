@@ -18,3 +18,7 @@
 任何人使用此工具造成的后果由使用者自行承担，与作者无关！
 
 如果你下载并使用了此工具，则你已经同意了本声明。
+
+## 下载
+
+见 [Releases](https://github.com/xiaozhuai/telecomadmin-superman/releases) 页面
