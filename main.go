@@ -46,7 +46,7 @@ func main() {
 		configFile := fmt.Sprintf("modem_%04d%02d%02d%02d%02d%02d%s.xml", year, mon, day, hour, min, sec, zone)
 		err = os.WriteFile(configFile, result.Config, 0644)
 		if err != nil {
-			fmt.Printf("  - Error write modem config file ")
+			fmt.Printf("  - Error write modem config file\n")
 		} else {
 			fmt.Printf("  - Modem Config: %s\n", configFile)
 		}
