@@ -16,11 +16,11 @@ telecomadmin-superman-macos-amd64:
 
 telecomadmin-superman-win-386:
 	@echo "Build telecomadmin-superman-win-386"
-	CGO_ENABLED=0 GOOS=windows GOARCH=386 go build -o "build/telecomadmin-superman-win-386" main.go
+	CGO_ENABLED=0 GOOS=windows GOARCH=386 go build -o "build/telecomadmin-superman-win-386.exe" main.go
 
 telecomadmin-superman-win-amd64:
 	@echo "Build telecomadmin-superman-win-amd64"
-	CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build -o "build/telecomadmin-superman-win-amd64" main.go
+	CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build -o "build/telecomadmin-superman-win-amd64.exe" main.go
 
 telecomadmin-superman-freebsd-amd64:
 	@echo "Build telecomadmin-superman-freebsd-amd64"
