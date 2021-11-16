@@ -10,10 +10,54 @@
 
 ## 支持列表
 
-* [x] ALCL E-140W-P
-* [ ] Other
+<table>
+    <tr>
+        <th align="center">品牌</th>
+        <th align="center">型号</th>
+        <th align="center">硬件版本</th>
+        <th align="center">软件版本</th>
+        <th align="center">是否支持</th>
+        <th align="center">编码</th>
+        <th align="center">测试</th>
+    </tr>
+    <tr>
+        <td align="center">贝尔 ALCL</td>
+        <td align="center">E-140W-P</td>
+        <td align="center">E140WV1B1</td>
+        <td align="center">ASB_E140WV1.7S</td>
+        <td align="center"><img src="https://img.shields.io/badge/Support-Yes-green"></td>
+        <td align="center">
+            <img src="https://github.com/xiaozhuai.png?size=60">
+            <br>
+            <a href="https://github.com/xiaozhuai">@xiaozhuai</a>
+        </td>
+        <td align="center">
+            <img src="https://github.com/xiaozhuai.png?size=60">
+            <br>
+            <a href="https://github.com/xiaozhuai">@xiaozhuai</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">烽火 FiberHome</td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"><img src="https://img.shields.io/badge/Support-No-yellow"></td>
+        <td align="center"></td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center">其它</td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"><img src="https://img.shields.io/badge/Support-No-yellow"></td>
+        <td align="center"></td>
+        <td align="center"></td>
+    </tr>
+</table>
 
-欢迎贡献以支持更多设备！
+欢迎贡献以支持更多设备！你也可以提交测试报告来告诉我，你的设备受支持情况。
 
 ## 声明
 
