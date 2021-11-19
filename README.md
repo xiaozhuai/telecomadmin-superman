@@ -10,7 +10,7 @@
 
 ## 支持列表
 
-<table style="text-align: center;">
+<table>
     <tr>
         <th>品牌</th>
         <th>型号</th>
@@ -21,39 +21,39 @@
         <th>测试</th>
     </tr>
     <tr>
-        <td>贝尔<br>ALCL</td>
-        <td>E-140W-P</td>
-        <td>E140WV1B1</td>
-        <td>ASB_E140WV1.7S</td>
-        <td><span style="color: green;">Yes</span></td>
-        <td>
+        <td align="center">贝尔<br>ALCL</td>
+        <td align="center">E-140W-P</td>
+        <td align="center">E140WV1B1</td>
+        <td align="center">ASB_E140WV1.7S</td>
+        <td align="center"><font color="green">Yes</font></td>
+        <td align="center">
             <img src="https://github.com/xiaozhuai.png?size=32">
             <br>
             <a href="https://github.com/xiaozhuai">@xiaozhuai</a>
         </td>
-        <td>
+        <td align="center">
             <img src="https://github.com/xiaozhuai.png?size=32">
             <br>
             <a href="https://github.com/xiaozhuai">@xiaozhuai</a>
         </td>
     </tr>
     <tr>
-        <td>烽火<br>FiberHome</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td><span style="color: orange;">No</span></td>
-        <td></td>
-        <td></td>
+        <td align="center">烽火<br>FiberHome</td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"><font color="orange">No</font></td>
+        <td align="center"></td>
+        <td align="center"></td>
     </tr>
     <tr>
-        <td>其它</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td><span style="color: orange;">No</span></td>
-        <td></td>
-        <td></td>
+        <td align="center">其它</td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"><font color="orange">No</font></td>
+        <td align="center"></td>
+        <td align="center"></td>
     </tr>
 </table>
 
