@@ -10,50 +10,50 @@
 
 ## 支持列表
 
-<table>
+<table style="text-align: center;">
     <tr>
-        <th align="center">品牌</th>
-        <th align="center">型号</th>
-        <th align="center">硬件版本</th>
-        <th align="center">软件版本</th>
-        <th align="center">是否支持</th>
-        <th align="center">编码</th>
-        <th align="center">测试</th>
+        <th>品牌</th>
+        <th>型号</th>
+        <th>硬件版本</th>
+        <th>软件版本</th>
+        <th>支持</th>
+        <th>编码</th>
+        <th>测试</th>
     </tr>
     <tr>
-        <td align="center">贝尔 ALCL</td>
-        <td align="center">E-140W-P</td>
-        <td align="center">E140WV1B1</td>
-        <td align="center">ASB_E140WV1.7S</td>
-        <td align="center"><img src="https://img.shields.io/badge/Support-Yes-green?style=flat-square"></td>
-        <td align="center">
-            <img src="https://github.com/xiaozhuai.png?size=60">
+        <td>贝尔<br>ALCL</td>
+        <td>E-140W-P</td>
+        <td>E140WV1B1</td>
+        <td>ASB_E140WV1.7S</td>
+        <td><span style="color: green;">Yes</span></td>
+        <td>
+            <img src="https://github.com/xiaozhuai.png?size=32">
             <br>
             <a href="https://github.com/xiaozhuai">@xiaozhuai</a>
         </td>
-        <td align="center">
-            <img src="https://github.com/xiaozhuai.png?size=60">
+        <td>
+            <img src="https://github.com/xiaozhuai.png?size=32">
             <br>
             <a href="https://github.com/xiaozhuai">@xiaozhuai</a>
         </td>
     </tr>
     <tr>
-        <td align="center">烽火 FiberHome</td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"><img src="https://img.shields.io/badge/Support-No-yellow?style=flat-square"></td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td>烽火<br>FiberHome</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><span style="color: orange;">No</span></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
-        <td align="center">其它</td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"><img src="https://img.shields.io/badge/Support-No-yellow?style=flat-square"></td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td>其它</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><span style="color: orange;">No</span></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 
